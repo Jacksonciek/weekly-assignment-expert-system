@@ -1,4 +1,4 @@
-# README: Expert System – Flipped Classroom Materials
+# Expert System – Flipped Classroom Materials
 
 ## 📚 Course Overview
 
